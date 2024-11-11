@@ -3,7 +3,7 @@ title: "وبلاگ شخصی من"
 description: "اینجا نوشته‌ها و پروژه‌های من را خواهید یافت!"
 author:
   name: "Aryan"
-  email: "aryan_bj@yahoo.com" , "aryanbj2@gmail.com
+  email: "aryan_bj@yahoo.com"
 
 # تنظیمات URL
 baseurl: "" # وقتی روی دامنه‌ی اصلی هست، باید خالی باشه
