@@ -21,7 +21,7 @@ title                    : "AryanBj Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Aryan Bajelani"
-description              : "A blog dedicated to sharing my programming learning journey, with a focus on Python and personal skill development. Here, I document my experiences and small projects to serve as a portfolio and a resource for learning and growth in the world of coding."
+description              : "A blog dedicated to Sharing my programming learning journey, with a focus on Python and personal skill development. Here, I document my experiences and small projects to serve as a portfolio and a resource for learning and growth in the world of coding."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
