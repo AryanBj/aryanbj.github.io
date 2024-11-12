@@ -114,8 +114,8 @@ analytics:
 # Site Author
 author:
   name             : "Aryan Bajelani"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am Aryan. python programmer."
+  avatar           : "/assets/images/avatar.jpg"
+  bio              : "I am Aryan, Python programmer."
   location         : "Iran"
   email            : "aryan_bj@yahoo.com"
   links:
